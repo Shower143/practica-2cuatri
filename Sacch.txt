@@ -1,0 +1,1 @@
+un repositorio de git es un almacenamiento virtual de un proyecto que permite guardar versiones del código y acceder a ellas cuando sea necesario
